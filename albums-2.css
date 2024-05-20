@@ -1,0 +1,231 @@
+@media (max-width: 800px) {
+    .discover-main-section {
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
+
+  .frame-five-Wa1 .auto-group-jq9s-gN1 .auto-group-ntkw-ARb {
+    
+    width: 20rem;
+    height: 4.2rem;
+    font-size: 1.8rem;
+    font-weight: 200;
+    line-height: 1.2125;
+    color: rgba(217, 217, 217, 0.6999999881);
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.400000006);
+    border-radius: 1rem;
+    flex-shrink: 0;
+  }
+  
+  .auto-group-ntkw-ARb:hover
+  {
+    transition:  1s;
+    transform: scale(1.1); 
+  }
+  .frame-five-Wa1 .auto-group-jq9s-gN1 .artists-jND {
+    margin-bottom: 3.7rem;
+    font-size: 2.8rem;
+    font-weight: 200;
+    line-height: 1.2125;
+    color: #ffffff;
+    ;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .frame-five-Wa1 .auto-group-jq9s-gN1 .rectangle-12-S1j {
+    width: 25vw;
+  margin-left: 0;
+  height: 16rem;
+  max-width: 250px;
+  border-radius: 1rem;
+  }
+  .rectangle-12-S1j:hover
+  {
+    transition:  1s;
+    transform: scale(1.1);
+  }
+  .frame-five-Wa1 .auto-group-jq9s-gN1 .arijit-singh-jmX {
+    font-size:1.2rem;
+    margin-left: 4.5rem;
+    font-weight: 200;
+    line-height: 1.5;
+    color: #ffffff;
+    white-space: nowrap;
+    flex-shrink: 0;
+  
+  }
+  .frame-five-Wa1 .auto-group-tpnv-UDK {
+    margin: 12.2rem 15.9rem 0rem 0rem;
+    align-items: ;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+  }
+  .frame-five-Wa1 .auto-group-tpnv-UDK .rectangle-13-p2H {
+  
+    width: 30vw;
+
+    height: auto;
+    max-width: 250px;
+    border-radius: 1rem;
+  }  
+  .rectangle-13-p2H:hover
+  {
+    transition:  1s;
+    transform: scale(1.1);
+  }
+  .frame-five-Wa1 .auto-group-tpnv-UDK .mohit-chauhan-vLD {
+    margin-left: 17rem;
+    max-width: 19.3rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1;
+    color: #ffffff;
+
+    flex-shrink: 0;
+  }
+  .frame-five-Wa1 .auto-group-78vb-39w {
+    margin: 8.5rem 15.9rem 0rem 0rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+  .frame-five-Wa1 .auto-group-78vb-39w .rectangle-14-aQm {
+    margin-left: 25rem;
+    width: 35vh;
+    max-width: 250px;
+    height: auto;
+    border-radius: 1rem;
+    flex-shrink: 0;
+  }
+  .rectangle-14-aQm:hover
+  {
+    transition:  1s;
+    transform: scale(1.1);
+  }
+  .frame-five-Wa1 .auto-group-78vb-39w .atif-aslam-iG5 {
+    margin-left: 17rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1;
+    color: #ffffff;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .frame-five-Wa1 .auto-group-eyj1-2nZ {
+    margin: 8.5rem 15.4rem 0rem 0rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+  }
+  .frame-five-Wa1 .auto-group-eyj1-2nZ .rectangle-15-Mpq {
+    margin-left: 17rem;
+    width: 35vh;
+    max-width: 250px;
+    height: auto;
+    border-radius: 1rem;
+  }
+  .rectangle-15-Mpq:hover{
+    transition:  1s;
+    transform: scale(1.1);
+  }
+  .frame-five-Wa1 .auto-group-eyj1-2nZ .kk-HyP {
+    font-size: 1.2rem;
+    margin-left: 17rem;
+    font-weight: 200;
+    line-height: 1;
+    color: #ffffff;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .frame-five-Wa1 .auto-group-rg9k-Edj {
+    margin-top: 7.3rem;
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+  }
+  .frame-five-Wa1 .auto-group-rg9k-Edj .group-nfF {
+    margin-bottom: 0rem;
+    margin-right: 26rem;
+    width: 5rem;
+    height: 11.2rem;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+  .group-nfF:hover
+  {
+    transition:  1s;
+    transform: scale(1.1);
+  }
+  .frame-five-Wa1 .auto-group-rg9k-Edj .more-j4h {
+    font-size: 1.1rem;
+    margin-right: 24rem;
+    font-weight: 400;
+    line-height: 0;
+    color: #d9d9d9;
+  
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .atif{
+    margin-left: 25rem;
+    width: 35vh;
+    max-width: 250px;
+    height: auto;
+    border-radius: 1rem;
+    flex-shrink: 0;
+
+  }
+  .atif:hover{
+    transition:  1s;
+    transform: scale(1.1);
+  }
+  
+  .aslam{
+    
+    margin-left: 45.2rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 0;
+    color: #ffffff;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .KK{
+    margin-bottom: 0rem;
+    margin-left: 48.2rem;
+    width: 35vh;
+    max-width: 250px;
+    height: auto;
+    border-radius: 1rem;
+    flex-shrink: 0;
+  }
+  .Ham{
+    margin-bottom: 5rem;
+    margin-left: 0;
+    width: 35vh;
+    max-width: 250px;
+    height: auto;
+    border-radius: 1rem;
+    flex-shrink: 0;
+  }
+  .atim{
+    
+    width: 25vw;
+    margin-left: 0;
+    height: 16rem;
+    max-width: 250px;
+    border-radius: 1rem;
+  }
+  .atim:hover{
+    transition:  1s;
+    transform: scale(1.1);
+  }
